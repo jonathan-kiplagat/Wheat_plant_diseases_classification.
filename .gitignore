@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+Data/
+*.h5
+!models/class_names.json
+Data_clean/
